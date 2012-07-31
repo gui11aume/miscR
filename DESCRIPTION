@@ -1,0 +1,8 @@
+Package: miscR
+Title: The functions I use often
+Version: 0.1
+Date: July 28 2012
+Author: Guillaume Filion
+Maintainer: Guillaume Filion <guillaume.filion@gmail.com>
+Description: A mix a convenience functions I use often.
+License: GPL-2
