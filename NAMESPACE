@@ -1,1 +1,1 @@
-export(subs, domainify, closest_point)
+export(subs, domainify, in_domains, closest_point)
